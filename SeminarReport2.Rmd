@@ -1,0 +1,26 @@
+---
+title: "BME 4550 - Seminar Report X"
+output:
+  html_document:
+    df_print: paged
+---
+
+Name: Stephen Ling
+
+Seminar Speaker's Name: Joel Linden, PhD
+Seminar Speaker's Title: Professor of Developmental Immunology
+Seminar Speaker's Affiliation: La Jolla Institute for Allergy and Immunology
+
+Date: November 6, 2018
+Time: 12:30 - 1:30 pm
+
+Seminar Title: A Microparticle Approach to Blocking Adenosine Receptors in the Tumor Microenviornment
+
+Seminar Summary:
+In this seminar Dr. Linden talks about the the use of adenosine A2A and A2B receptor antagonists to decrease the immune stealth of solid tumors and promote tumor size reduction. Essentially, solid tumors tend to overexpress adensonine. This adeonsine will signal to the immune cells that the tumor is "normal" and thus causing the tumors to go unnoticed by the immune system. Hypothetically, the way these antagonists work is as checkpoint inhibitors of adenosine. By binding to immune cells, it will prevent the adenosine from binding and thus allowing the immune cells to recognize the tumors. The main research questions Joel was trying to address was how exactly adding these antagonists to the tumor microenviornment (TME) would actually effect the tumors cells and how exactly the antagonists will be delivered into the body. 
+
+One way that he tested how the tumor cells would react to the blocked adenosine receptor was by knocking out the receptors themesevles on different T-Cells and Meyloid cells and seeing how the tumors would react. One thing that he discovered was that when too many receptors cells on the T-Cells were knocked out, the tumors would actually grow at an increased rate. However, when the receptors ont he meyloid cells were taken out, it would not cause an increased rate in tumor growth but would in fact cause a decrease in tumor size. 
+
+There were two ways that Dr. Linden would inject the antagonists into the body. One way was direct injection into the tumor. He found that this was very effective in having the antagonists block the adenosine signal pathway. One study that he conducted was that a mouse model would have two tumors: one on the left and one on the right. When the antagonist was directly injected into the right tumor cell, a decrease in both tumor cells was observed. This means that the antognists were able to affect all immune cells within the body. The other method that is being developed is direct IV injection of nanoliposomes. These liposomes have are still in development and would hopefully be targeted to further improve the efficacy of the antagonist. 
+
+Overall, I found this seminar incredibaly interesting. As a nanomedicine major, seeing work done within the field is very inspiring. I enjoyed learning about immunotherapy and the pathways in which the antagonist and adenosine take. Hopefully this therapy can be successfully developed to help patients sufferring different forms of cancer. 
